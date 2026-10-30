@@ -107,7 +107,7 @@
     "rimraf": "2.3.2",
     "rsvp": "^3.0.17",
     "sane": "^1.1.1",
-    "semver": "^4.3.3",
+    "semver": "^7.8.5",
     "silent-error": "^1.0.0",
     "symlink-or-copy": "^1.0.1",
     "temp": "0.8.1",
